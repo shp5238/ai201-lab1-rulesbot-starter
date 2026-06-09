@@ -116,11 +116,12 @@ handle these cases better, at the cost of more implementation complexity.
 **Actual chunk count produced across all 8 rule books:**
 
 ```
-[your answer here]
+The actual chunk count was 149 chunks. 
 ```
 
 **One thing that surprised you or didn't match your expectations:**
 
 ```
-[your answer here]
+I didn't expect there to be a fixed chunk size. I get that fixed-length chunking is one of the options, 
+but it seems very restrictive when recursive (based on document structure) and semantic chunking are also options. 
 ```
